@@ -1,0 +1,8 @@
+{
+    "test_rows": 3576,
+    "accuracy": 0.9860178970917226,
+    "precision_fraud": 0.8253968253968254,
+    "recall_fraud": 0.9017341040462428,
+    "f1_fraud": 0.861878453038674,
+    "note": "Metrics are from this dataset split; they do not guarantee real-world performance."
+}
